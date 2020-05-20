@@ -9,7 +9,7 @@ https://frania2201.github.io/Workshop/
 * [Inspiration](#inspiration)
 
 ## General info
-This project is a simple layout which consists of landing page of BestShop - a platform that lets you open an online store. I used a mobile first rule and also used JS to create a mobile navigation menu.
+This project is a simple layout which consists of landing page of BestShop - a platform that lets you open an online store. 
 ## Screenshots
 ![Example screenshot](./screenshot.png)
 
